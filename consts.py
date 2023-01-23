@@ -1,0 +1,2 @@
+TA_SCREENER = "america"
+TA_EXCHANGE = "NASDAQ"
